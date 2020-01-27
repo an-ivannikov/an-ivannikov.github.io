@@ -1,2 +1,2 @@
-# an-ivannikov.github.io
-Aleksandr Ivannikov Website
+# Aleksandr Ivannikov Website
+
